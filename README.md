@@ -6,3 +6,4 @@ Change from light mode to dark mode or dark mode to light mode
 
 See the status of users and also post statuses
 
+Load various post and go back to previously visited post
